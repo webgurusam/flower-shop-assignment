@@ -1,0 +1,46 @@
+/* common styles */
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    max-width: 1040px;
+    margin: 0 auto;
+}
+.btn-primary{
+    padding: 20px 40px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+}
+
+/* header section styles */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+.banner-text-content{
+    
+}
+.banner-title{
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    margin: 30px 0;
+}
+.banner-flower{
+    width: 45%;
+}
