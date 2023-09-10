@@ -6,8 +6,9 @@ body{
     font-family: 'Lato', sans-serif;
 }
 .container{
-    max-width: 1040px;
+    max-width: 1440px;
     margin: 0 auto;
+    border: 1px solid red;
 }
 .btn-primary{
     padding: 20px 40px;
@@ -19,7 +20,7 @@ body{
     border: 0;
 }
 
-/* header section styles */
+/* header section styles starts here */
 .header{
     background: rgba(229, 84, 115, 0.10);
 }
@@ -27,9 +28,7 @@ body{
     display: flex;
     gap: 50px;
     align-items: center;
-}
-.banner-text-content{
-    
+    padding-top: 50px;
 }
 .banner-title{
     color: #272727;
@@ -44,3 +43,4 @@ body{
 .banner-flower{
     width: 45%;
 }
+/* header section styles starts here */
