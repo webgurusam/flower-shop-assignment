@@ -28,7 +28,8 @@ body{
     display: flex;
     gap: 50px;
     align-items: center;
-    padding-top: 50px;
+    height: 100vh;
+    padding-top: 10px;
 }
 .banner-title{
     color: #272727;
@@ -42,5 +43,15 @@ body{
 }
 .banner-flower{
     width: 45%;
+    height: 100%;
 }
 /* header section styles starts here */
+
+/* featured flowers section starts here */
+
+
+
+/* featured flowers section ends here */
+
+
+
