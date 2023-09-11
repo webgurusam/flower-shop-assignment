@@ -134,7 +134,7 @@ body{
 
 /* instagram section starts here */
 
-.instagram{
+.instagram, .footer-text-content{
     padding: 128px 0;
 }
 .instagram .sec-description{
@@ -173,6 +173,28 @@ body{
     padding: 20px 30px;
 }
 
-
 /* instagram section ends here */
+
+/* footer section starts here */
+
+.footer{
+    background: #111010;
+}
+.footer-text-title{
+    font-size: 48px;
+    color: #fff;
+}
+.footer-text-description{
+    margin: 24px auto 32px;
+    width: 44%;
+    color: rgba(255, 255, 255, 0.90);
+}
+.footer-text-content p:last-child{
+    color: rgba(255, 255, 255, 0.40);
+}
+
+/* footer section ends here */
+
+
+
 
