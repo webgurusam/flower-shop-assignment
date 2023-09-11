@@ -61,10 +61,10 @@ body{
 .featured-flowers{
     margin: 178px auto 128px;
 }
-.featured-flowers .sec-title{
+.featured-flowers .sec-title, .hot-deal-title{
     font-size: 40px;
 }
-.featured-flowers .sec-description{
+.featured-flowers .sec-description, .hot-deal-description{
     margin: 24px 0 48px;
 }
 .sec-text-content{
@@ -106,6 +106,31 @@ body{
 }
 
 /* featured flowers section ends here */
+
+/* hot deals section starts here */
+
+.hot-deals{
+    background: rgba(229, 84, 115, 0.05);
+}
+.hot-deal{
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 100px 0;
+}
+.hot-deal-text-content{
+    width: 45%;
+}
+.pink{
+    color: #E55473;
+}
+.hot-deal-description{
+    margin-bottom: 32px;
+}
+.hot-deal-flower{
+    height: 420px;
+}
+
+/* hot deals section ends here */
 
 
 
