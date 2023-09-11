@@ -132,5 +132,47 @@ body{
 
 /* hot deals section ends here */
 
+/* instagram section starts here */
 
+.instagram{
+    padding: 128px 0;
+}
+.instagram .sec-description{
+    margin-bottom: 48px;
+}
+.instagram-flowers{
+    gap: 24px;
+    margin-top: 28px;
+}
+.latest-deals{
+    margin-top: 128px;
+    padding: 122px 0;
+    background: url(../images/rectangle9.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.latest-deals .sec-description{
+    margin-top: 16px;
+}
+.subscribe-form{
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.subscribe-form input[type="email"]{
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    padding: 0 22px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    outline-color: #E55473;
+}
+.subscribe-form .btn-primary{
+    padding: 20px 30px;
+}
+
+
+/* instagram section ends here */
 
